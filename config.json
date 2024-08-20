@@ -3,6 +3,33 @@
     "Fivem-INFO": "Undetected",
     "Fivem-COLOR": "#00FF00",
     "Fivem-VERSAO": "Version 20.08.24",
+    "Fivem-updates": "FIVEM MOD [UPDATED]
+
+Builds:
+  Bypass builds: [2372,2802,3095]
+
+Aba Carro:
+  Puxar Carro [UMA VEZ]
+  Esp Line No Carro
+
+Aba Players:
+  Setar Como Amigo [ESP VERDE]
+
+Aba World/Protect
+  Lista de TPS
+  Seleciona nome do tp
+  Salvar LOC
+  Dar TP na LOC
+
+Aba Visual:
+  ESP INTELIGENTE
+  ESP NOME
+  ESP LINE [MORTOS]
+
+Aba Config:
+  Tecla para desinjetar o MENU
+  Travr posição do MENU
+",
 
     "Gta-INFO": "Undetected",
     "Gta-COLOR": "#00FF00",
@@ -11,6 +38,7 @@
     "Cs-INFO": "Undetected",
     "Cs-COLOR": "#00FF00",
     "Cs-VERSAO": "Version 26.07.24",
+    
 
     "Loader-VERSAO": "1.0"
 }
