@@ -7,7 +7,6 @@
     "Gta-COLOR": "#0000ff",
     "Gta-VERSAO": "Version 1.0 | Date 24.06.24",
 
-    "Cs-INFO": "Updating...",
     "Cs-COLOR": "#0000ff",
     "Cs-VERSAO": "Version 1.0 | Date 05.09.24",
     
@@ -17,7 +16,8 @@
     "Fivem-INFO": "Undetected",
     "Fivem-versaonovoloader": "1.1",
 
-
+    "Cs-INFO": "Updating...",
+    "cs2-versaonovoloader": "1.0",
     
     "imagemloader": "https://iili.io/dDhGQvS.webp",
     "Xfecharmenu": "https://iili.io/dD7TOzB.png",
