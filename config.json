@@ -1,6 +1,5 @@
 {
     "Loader-INFO": "ON",
-    "Fivem-INFO": "Undetected",
     "Fivem-COLOR": "#00FF00",
     "Fivem-VERSAO": "Version 1.1 | Date 24.09.24",
 
@@ -14,8 +13,12 @@
     
     "Loader-VERSAO": "1.0",
 
+        
+    "Fivem-INFO": "Undetected",
+    "Fivem-versaonovoloader": "1.1",
 
 
+    
     "imagemloader": "https://iili.io/dDhGQvS.webp",
     "Xfecharmenu": "https://iili.io/dD7TOzB.png",
     "startlogin": "https://iili.io/dDgSVxp.png",
