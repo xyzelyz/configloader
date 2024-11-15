@@ -1,5 +1,11 @@
 {
-    "mensagemnotificao": "Isso é um teste\n Fique tranquilo!",
+    "titulonotificao1": "Fivem Updated",
+    "mensagemnotificao1": "Isso é um teste\n Fique tranquilo!",
+    "titulonotificao2": "Isso é um teste\n Fique tranquilo!",
+    "mensagemnotificao2": "Isso é um teste\n Fique tranquilo!",
+
+
+    
     "Fivem-COLOR": "#00FF00",
     "Fivem-VERSAO": "Version 1.1 | Date 24.09.24"
 }
