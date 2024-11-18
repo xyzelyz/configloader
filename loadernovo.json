@@ -1,6 +1,8 @@
 {
     "titulonotificao1": "Loader Updated",
     "mensagemnotificao1": "This update came to cover more MODS menus on our list, have fun :D",
+
+    "COMANDOS STATUS": "OFF,ON,WORKING,DETECT",
     
     "cs2imagem": "https://iili.io/2RLoWHN.png",
     "cs2lastupdate": "28.10.2024",
