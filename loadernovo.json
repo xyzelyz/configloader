@@ -5,37 +5,37 @@
     "COMANDOS STATUS": "OFF,ON,WORKING,DETECT",
     
     "cs2imagem": "https://iili.io/2RLoWHN.png",
-    "cs2lastupdate": "31.01.2025",
+    "cs2lastupdate": "31.01.25",
     "cs2versao": "2.4",
     "cs2status": "ON",
 
     "fivemimagem": "https://iili.io/28DBqG9.png",
-    "fivemlastupdate": "14.01.2025",
+    "fivemlastupdate": "14.01.25",
     "fivemversao": "3.3",
     "fivemstatus": "ON",
 
     "valorantimagem": "https://iili.io/2RLT62j.png",
-    "valorantlastupdate": "20.11.2024",
+    "valorantlastupdate": "20.11.24",
     "valorantversao": "0.4",
     "valorantstatus": "ON",
 
     "overwatch2imagem": "https://iili.io/2WDj2gR.png",
-    "overwatch2lastupdate": "13.12.2024",
+    "overwatch2lastupdate": "13.12.24",
     "overwatch2versao": "0.1",
     "overwatch2status": "WORKING",
 
     "spooferimagem": "https://iili.io/2RLIgJR.png",
-    "spooferlastupdate": "99.99.9999",
+    "spooferlastupdate": "99.99.99",
     "spooferversao": "0.0",
     "spooferstatus": "OFF",
 
     "leagueoflegendsimagem": "https://iili.io/2RLzxYQ.png",
-    "leagueoflegendslastupdate": "99.99.9999",
+    "leagueoflegendslastupdate": "99.99.99",
     "leagueoflegendsversao": "0.0",
     "leagueoflegendsstatus": "OFF",
 
     "bypassimagem": "https://iili.io/2mpHOhJ.png",
-    "bypasslastupdate": "99.99.9999",
+    "bypasslastupdate": "99.99.99",
     "bypassversao": "1.0",
     "bypassstatus": "ON",
 
