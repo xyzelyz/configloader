@@ -53,7 +53,7 @@
     "rdmenu": "START",
     "lcmenu": "START",
     "tikimenu": "START",
-    "loadernba": "START"
+    "loadernba": "STOP"
 }
 
 
