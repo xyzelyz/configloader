@@ -53,6 +53,10 @@
     "rdmenu": "START",
     "lcmenu": "START",
     "tikimenu": "START",
+    "dallasmenu": "START",
+
+
+    
     "loadernba": "STOP",
 
     "localbypasscltmenu": "C:\\Program Files\\Rainmeter\\RestartRainmeter.exe"
