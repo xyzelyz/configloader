@@ -1,70 +1,47 @@
 {
     "titulonotificao1": "Fivem 4.0!!",
     "mensagemnotificao1": "",
-
     "COMANDOS STATUS": "OFF,ON,WORKING,DETECT",
-    
     "cs2imagem": "https://iili.io/3TJqXqb.png",
     "cs2lastupdate": "31.01.25",
     "cs2versao": "2.4",
     "cs2status": "ON",
-
     "fivemimagem": "https://iili.io/3ojoZe2.png",
     "fivemlastupdate": "18.03.25",
     "fivemversao": "4.0",
     "fivemstatus": "ON",
-
     "valorantimagem": "https://iili.io/2RLT62j.png",
     "valorantlastupdate": "20.11.24",
     "valorantversao": "0.4",
     "valorantstatus": "ON",
-
     "overwatch2imagem": "https://iili.io/2WDj2gR.png",
     "overwatch2lastupdate": "13.12.24",
     "overwatch2versao": "0.1",
     "overwatch2status": "WORKING",
-
     "spooferimagem": "https://iili.io/2RLIgJR.png",
     "spooferlastupdate": "99.99.99",
     "spooferversao": "0.0",
     "spooferstatus": "OFF",
-
     "leagueoflegendsimagem": "https://iili.io/2RLzxYQ.png",
     "leagueoflegendslastupdate": "99.99.99",
     "leagueoflegendsversao": "0.0",
     "leagueoflegendsstatus": "OFF",
-
     "bypassimagem": "https://iili.io/2mpHOhJ.png",
     "bypasslastupdate": "25.02.25",
     "bypassversao": "1.0",
     "bypassstatus": "OFF",
-
     "freefireimagem": "https://iili.io/3uVrrR1.png",
     "freefirelastupdate": "04.04.25",
     "freefireversao": "1.3",
     "freefirestatus": "ON",
-
-
-
-
     "personagemloaderprincipal": "https://iili.io/2RQV8Wg.png",
     "versaoloader": "1.1",
     "versaoloaderpremium": "1.1",
-
-
-    
     "keysadmschatservidor": "Y8yu6N-EzgylQ-aL5Xeq-sN1j2Q-bTROaH-1l1rWm,HGohRY-KKx8rN-VxTCqK-kzv34q-rj09Z1-1CWMXT",
-
     "rdmenu": "START",
     "lcmenu": "START",
     "tikimenu": "START",
     "dallasmenu": "START",
-
-
-    
     "loadernba": "STOP",
-
     "localbypasscltmenu": "C:\\Program Files\\Rainmeter\\RestartRainmeter.exe"
 }
-
-
